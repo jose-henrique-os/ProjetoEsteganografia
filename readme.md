@@ -5,4 +5,4 @@ Esteganografia é o nome dado às técnicas usadas para esconder a existência d
 A esteganografia é utilizada há muito, muito tempo. Uma das primeiras menções data de 440 A.C., na Grécia Antiga. Desde então, inúmeras técnicas foram surgindo para esconder mensagens, seja em movimentos específicos de olhos, das mãos... (em jogos de baralho, por exemplo), em mensagens cifradas (em cartas entre espiões, por exemplo) até o uso mais "moderno"... com arquivos digitais.
 
 
-No presente projeto, há o desenvolvimento de um programa para codificar e decoficar mensagens em imagens ".ppm", em que os valores RGB são representados de forma simplificada, sem algoritimos de compressão do tamanho do arquivo.
+No presente projeto, há o desenvolvimento de um programa para codificar e decoficar mensagens em imagens ".ppm", em que os valores RGB são representados de forma simplificada, sem algoritmos de compressão do tamanho do arquivo.
